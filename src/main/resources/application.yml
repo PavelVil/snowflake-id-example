@@ -1,0 +1,4 @@
+app:
+  generator:
+    workerId: 1
+    datacenterId: 1
